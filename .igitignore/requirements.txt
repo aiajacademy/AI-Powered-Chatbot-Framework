@@ -2,3 +2,5 @@ tensorflow
 nltk
 spacy
 flask
+textblob
+googletrans==4.0.0-rc1
